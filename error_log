@@ -1,0 +1,673 @@
+[09-Apr-2011 17:43:15] PHP Warning:  require_once(EpiFoursquare.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/themedi9/public_html/ilovethepersonals/comeatme/callback.php on line 3
+[09-Apr-2011 17:43:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'EpiFoursquare.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/themedi9/public_html/ilovethepersonals/comeatme/callback.php on line 3
+[09-Apr-2011 17:51:40] PHP Fatal error:  Uncaught exception 'EpiTwitterNotFoundException' with message '
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta content="noarchive,noindex" name="robots" />
+    <title>Twitter / ?</title>
+    <link href="//si0.twimg.com/sticky/error_pages/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <style type="text/css">
+      * { border: 0; padding: 0; margin: 0; }
+      body{ margin: 10px 0; background:#C0DEED url(//si0.twimg.com/sticky/error_pages/bg-clouds.png) repeat-x; color:#333; font: 12px Lucida Grande, Arial, sans-serif; text-align:center }
+      #container { width: 755px; margin: 0 auto; padding: 0px 0; text-align: left; position: relative; }
+      #content { width: 100%; margin-top: 8px; float: left; padding- in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 259
+[09-Apr-2011 17:51:58] PHP Fatal error:  Uncaught exception 'EpiTwitterNotFoundException' with message '
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta content="noarchive,noindex" name="robots" />
+    <title>Twitter / ?</title>
+    <link href="//si0.twimg.com/sticky/error_pages/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <style type="text/css">
+      * { border: 0; padding: 0; margin: 0; }
+      body{ margin: 10px 0; background:#C0DEED url(//si0.twimg.com/sticky/error_pages/bg-clouds.png) repeat-x; color:#333; font: 12px Lucida Grande, Arial, sans-serif; text-align:center }
+      #container { width: 755px; margin: 0 auto; padding: 0px 0; text-align: left; position: relative; }
+      #content { width: 100%; margin-top: 8px; float: left; padding- in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 259
+[09-Apr-2011 17:52:19] PHP Fatal error:  Uncaught exception 'EpiTwitterNotFoundException' with message '
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta content="noarchive,noindex" name="robots" />
+    <title>Twitter / ?</title>
+    <link href="//si0.twimg.com/sticky/error_pages/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <style type="text/css">
+      * { border: 0; padding: 0; margin: 0; }
+      body{ margin: 10px 0; background:#C0DEED url(//si0.twimg.com/sticky/error_pages/bg-clouds.png) repeat-x; color:#333; font: 12px Lucida Grande, Arial, sans-serif; text-align:center }
+      #container { width: 755px; margin: 0 auto; padding: 0px 0; text-align: left; position: relative; }
+      #content { width: 100%; margin-top: 8px; float: left; padding- in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 259
+[09-Apr-2011 18:47:36] PHP Fatal error:  Call to undefined function  vardump() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 19
+[09-Apr-2011 19:07:56] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 19
+[09-Apr-2011 19:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 19
+[09-Apr-2011 19:08:28] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 19
+[09-Apr-2011 19:08:44] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 20
+[09-Apr-2011 19:13:36] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 20
+[09-Apr-2011 19:23:29] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:30] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:31] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:33] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:34] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:37] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:38] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:39] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:39] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:40] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:41] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:42] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:43] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:44] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:44] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:45] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:48] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:49] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:49] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:50] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:51] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:52] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:53] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:54] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:54] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:55] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:23:56] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 29
+[09-Apr-2011 19:41:15] PHP Parse error:  syntax error, unexpected '{' in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 44
+[09-Apr-2011 19:41:35] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 41
+[09-Apr-2011 19:42:59] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 41
+[09-Apr-2011 19:43:24] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 41
+[09-Apr-2011 19:44:01] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 41
+[09-Apr-2011 19:44:16] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 41
+[09-Apr-2011 19:48:38] PHP Fatal error:  Cannot increment/decrement overloaded objects nor string offsets in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 52
+[09-Apr-2011 19:48:52] PHP Fatal error:  Cannot increment/decrement overloaded objects nor string offsets in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 52
+[09-Apr-2011 19:49:16] PHP Fatal error:  Cannot increment/decrement overloaded objects nor string offsets in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 52
+[09-Apr-2011 19:49:28] PHP Fatal error:  Cannot increment/decrement overloaded objects nor string offsets in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 52
+[09-Apr-2011 19:51:19] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 46
+[09-Apr-2011 19:51:45] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0csf&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:45] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:46] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0bruck&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:46] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:46] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0enludman&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:46] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:47] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0N0t&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:47] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:47] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0wiftAlphaOne&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:47] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:48] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0danCohen&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:48] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:49] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0N0t&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:49] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:49] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0gv&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:49] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:50] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0chwabokaner&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:50] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:50] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0socny&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:51:50] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 19:51:51] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0N0t&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 47
+[09-Apr-2011 19:55:14] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 56
+[09-Apr-2011 19:58:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 24
+[09-Apr-2011 20:10:33] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 20:10:33] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 53
+[09-Apr-2011 20:13:02] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_0&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=5&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 50
+[09-Apr-2011 20:13:02] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 53
+[09-Apr-2011 20:14:22] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 25
+[09-Apr-2011 20:18:19] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ',' or ';' in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 23
+[09-Apr-2011 20:18:22] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ',' or ';' in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 23
+[09-Apr-2011 20:18:24] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ',' or ';' in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 23
+[09-Apr-2011 20:18:34] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 23
+[09-Apr-2011 20:23:38] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:38] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:39] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:39] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:40] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:40] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:41] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:42] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:43] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:44] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:45] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 20:23:45] PHP Warning:  Cannot use a scalar value as an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 58
+[09-Apr-2011 22:07:00] PHP Parse error:  syntax error, unexpected ';' in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 44
+[09-Apr-2011 22:08:47] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 45
+[10-Apr-2011 10:48:28] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 208
+[10-Apr-2011 10:48:28] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 221
+[10-Apr-2011 10:48:28] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 235
+[10-Apr-2011 10:48:28] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 249
+[10-Apr-2011 10:48:28] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 263
+[10-Apr-2011 10:53:19] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: First argument has to be an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 300
+[10-Apr-2011 10:53:32] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: First argument has to be an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 300
+[10-Apr-2011 10:53:33] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: First argument has to be an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 300
+[10-Apr-2011 10:53:35] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: First argument has to be an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 300
+[10-Apr-2011 10:54:08] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: First argument has to be an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 300
+[10-Apr-2011 10:54:08] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: First argument has to be an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 300
+[10-Apr-2011 10:55:08] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: First argument has to be an array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 300
+[10-Apr-2011 11:32:35] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_AlexanderTaub&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[10-Apr-2011 11:32:35] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[10-Apr-2011 12:48:35] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/index.php(131): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[10-Apr-2011 16:59:43] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_Jammis7&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[10-Apr-2011 16:59:43] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[10-Apr-2011 17:00:03] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 210
+[10-Apr-2011 17:00:03] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 223
+[10-Apr-2011 17:00:03] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 237
+[10-Apr-2011 17:00:03] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 251
+[10-Apr-2011 17:00:03] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 265
+[10-Apr-2011 17:00:40] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 210
+[10-Apr-2011 17:00:40] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 223
+[10-Apr-2011 17:00:40] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 237
+[10-Apr-2011 17:00:40] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 251
+[10-Apr-2011 17:00:40] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 265
+[10-Apr-2011 17:05:19] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_ATravissCorry&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[10-Apr-2011 17:05:19] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_ATravissCorry&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[10-Apr-2011 17:05:19] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[10-Apr-2011 17:05:19] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[10-Apr-2011 17:06:51] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/index.php(131): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[10-Apr-2011 17:17:55] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 210
+[10-Apr-2011 17:17:55] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 223
+[10-Apr-2011 17:17:55] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 237
+[10-Apr-2011 17:17:55] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 251
+[10-Apr-2011 17:17:55] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 265
+[10-Apr-2011 23:14:12] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/index.php(131): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[10-Apr-2011 23:14:42] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_mattruzick&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 153
+[10-Apr-2011 23:14:42] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 156
+[10-Apr-2011 23:14:58] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: Second argument has to be between 1 and the number of elements in the array in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 304
+[11-Apr-2011 02:50:43] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_pops131&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[11-Apr-2011 02:50:43] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[11-Apr-2011 02:51:00] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_nat0n&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[11-Apr-2011 02:51:00] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[11-Apr-2011 02:51:16] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_basicfunding&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[11-Apr-2011 17:41:31] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/index.php(131): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[11-Apr-2011 22:02:53] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/index.php(131): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[12-Apr-2011 08:19:16] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/index.php(131): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[12-Apr-2011 08:19:58] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 251
+[12-Apr-2011 08:19:58] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 265
+[17-Apr-2011 01:47:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 211
+[17-Apr-2011 01:47:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 227
+[17-Apr-2011 01:47:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 244
+[17-Apr-2011 01:47:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 261
+[17-Apr-2011 01:47:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 277
+[17-Apr-2011 01:48:46] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 230
+[17-Apr-2011 01:48:46] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 247
+[17-Apr-2011 01:48:46] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 264
+[17-Apr-2011 01:48:46] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 280
+[17-Apr-2011 01:50:30] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 223
+[17-Apr-2011 01:50:31] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 237
+[17-Apr-2011 01:50:31] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 251
+[17-Apr-2011 01:50:31] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 266
+[20-Apr-2011 13:18:49] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_gibianoz&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[20-Apr-2011 13:18:49] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[20-Apr-2011 13:18:50] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_asmoibn&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[20-Apr-2011 13:18:50] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 179
+[20-Apr-2011 13:18:51] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_craignorwood&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/index.php on line 177
+[03-May-2011 00:16:44] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/index.php(131): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 02:52:23] PHP Parse error:  syntax error, unexpected ')' in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 231
+[04-May-2011 08:20:37] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(247): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 18:21:18] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 18:35:11] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 18:36:47] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 20:27:26] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 20:30:32] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 20:31:35] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[04-May-2011 21:01:22] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[05-May-2011 00:18:56] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_Besvinick&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[05-May-2011 00:18:56] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[05-May-2011 09:49:16] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[05-May-2011 10:59:07] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[05-May-2011 10:59:58] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[05-May-2011 11:03:34] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_hneihenbknee&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 270
+[05-May-2011 11:03:34] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 273
+[05-May-2011 11:03:34] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 328
+[05-May-2011 11:03:34] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[05-May-2011 11:03:34] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[05-May-2011 11:03:34] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[05-May-2011 11:03:34] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[05-May-2011 11:03:34] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: Second argument has to be between 1 and the number of elements in the array in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 414
+[05-May-2011 13:11:09] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[05-May-2011 15:40:01] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[05-May-2011 15:42:27] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 307
+[05-May-2011 15:42:46] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[05-May-2011 16:27:32] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[06-May-2011 00:01:21] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[06-May-2011 00:05:40] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_AmericanAirlines&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 270
+[06-May-2011 00:05:40] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 273
+[06-May-2011 00:05:44] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: Second argument has to be between 1 and the number of elements in the array in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 414
+[06-May-2011 00:19:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 328
+[06-May-2011 00:19:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 00:19:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[06-May-2011 00:19:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[06-May-2011 00:19:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[06-May-2011 00:19:31] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 328
+[06-May-2011 00:19:31] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 00:19:31] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[06-May-2011 00:19:31] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[06-May-2011 00:19:31] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[06-May-2011 00:25:55] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[06-May-2011 00:25:55] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[06-May-2011 00:25:55] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[06-May-2011 00:30:52] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_Cadha13&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 00:30:52] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 00:30:53] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_AlwaysLoveCody&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 00:30:53] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 00:30:54] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_Maryyyizm&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 00:30:54] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 00:30:55] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_haguremobiler&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 00:30:55] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 00:30:57] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_kojiron&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 00:30:57] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 00:30:59] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_putri127&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 00:34:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[06-May-2011 00:34:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[06-May-2011 00:34:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[06-May-2011 01:27:18] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[06-May-2011 01:57:54] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[06-May-2011 01:58:29] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(248): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[06-May-2011 01:58:54] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_twitter.com/abdulkhimani&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 270
+[06-May-2011 01:58:54] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 273
+[06-May-2011 02:01:00] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: Second argument has to be between 1 and the number of elements in the array in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 414
+[06-May-2011 07:43:58] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_johnjjohnsonwhitney&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=10&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 270
+[06-May-2011 07:43:58] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 273
+[06-May-2011 07:44:02] PHP Warning:  array_rand() [<a href='function.array-rand'>function.array-rand</a>]: Second argument has to be between 1 and the number of elements in the array in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 414
+[06-May-2011 10:14:17] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:14:17] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:14:17] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 350
+[06-May-2011 10:14:17] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 361
+[06-May-2011 10:14:17] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 376
+[06-May-2011 10:17:25] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 342
+[06-May-2011 10:17:25] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 353
+[06-May-2011 10:17:25] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 364
+[06-May-2011 10:17:25] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 379
+[06-May-2011 10:17:35] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 342
+[06-May-2011 10:17:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 353
+[06-May-2011 10:17:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 364
+[06-May-2011 10:17:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 379
+[06-May-2011 10:17:59] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:17:59] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:17:59] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 350
+[06-May-2011 10:17:59] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 361
+[06-May-2011 10:17:59] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 376
+[06-May-2011 10:17:59] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:17:59] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:17:59] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 350
+[06-May-2011 10:17:59] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 361
+[06-May-2011 10:17:59] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 376
+[06-May-2011 10:18:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:18:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:18:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 350
+[06-May-2011 10:18:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 361
+[06-May-2011 10:18:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 376
+[06-May-2011 10:18:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:18:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:18:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:18:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:18:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 350
+[06-May-2011 10:18:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 361
+[06-May-2011 10:18:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 376
+[06-May-2011 10:18:10] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:18:10] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:18:10] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 350
+[06-May-2011 10:18:10] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 361
+[06-May-2011 10:18:10] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 376
+[06-May-2011 10:18:30] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 330
+[06-May-2011 10:18:30] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 340
+[06-May-2011 10:18:30] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 351
+[06-May-2011 10:18:30] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 362
+[06-May-2011 10:18:30] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 377
+[06-May-2011 10:18:58] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 329
+[06-May-2011 10:18:58] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 339
+[06-May-2011 10:18:58] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 350
+[06-May-2011 10:18:58] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 361
+[06-May-2011 10:18:58] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 376
+[06-May-2011 10:20:02] PHP Warning:  urlencode() expects exactly 1 parameter, 3 given in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 238
+[06-May-2011 10:20:02] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(250): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[06-May-2011 10:20:04] PHP Warning:  urlencode() expects exactly 1 parameter, 3 given in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 238
+[06-May-2011 10:20:04] PHP Fatal error:  Uncaught exception 'EpiTwitterForbiddenException' with message '{"error":"You must enter a query."}' in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php:257
+Stack trace:
+#0 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(218): EpiTwitterException::raise(Object(EpiCurlManager), false)
+#1 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(119): EpiTwitterJson->__get('response')
+#2 /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php(36): EpiTwitter->request('GET', '/search.json', Array)
+#3 /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php(250): EpiTwitter->get('/search.json', Array)
+#4 {main}
+  thrown in /home/themedi9/public_html/ilovethepersonals/comeatme/EpiTwitter.php on line 257
+[06-May-2011 10:20:20] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 330
+[06-May-2011 10:20:20] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 340
+[06-May-2011 10:20:20] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 351
+[06-May-2011 10:20:20] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 362
+[06-May-2011 10:20:20] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 377
+[06-May-2011 10:26:51] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 335
+[06-May-2011 10:26:51] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 345
+[06-May-2011 10:26:51] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 356
+[06-May-2011 10:26:51] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 367
+[06-May-2011 10:26:51] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 382
+[06-May-2011 10:27:39] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 336
+[06-May-2011 10:27:39] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 346
+[06-May-2011 10:27:39] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 357
+[06-May-2011 10:27:39] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 368
+[06-May-2011 10:27:39] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 383
+[06-May-2011 10:27:43] PHP Fatal error:  Call to undefined function  vardump() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 257
+[06-May-2011 10:28:11] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 336
+[06-May-2011 10:28:11] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 346
+[06-May-2011 10:28:11] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 357
+[06-May-2011 10:28:11] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 368
+[06-May-2011 10:28:11] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 383
+[06-May-2011 10:28:36] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 336
+[06-May-2011 10:28:36] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 346
+[06-May-2011 10:28:36] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 357
+[06-May-2011 10:28:36] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 368
+[06-May-2011 10:28:36] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 383
+[06-May-2011 10:29:35] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 346
+[06-May-2011 10:29:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 357
+[06-May-2011 10:29:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 368
+[06-May-2011 10:29:35] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 383
+[06-May-2011 10:29:43] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 345
+[06-May-2011 10:29:43] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 356
+[06-May-2011 10:29:43] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 367
+[06-May-2011 10:29:43] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 382
+[06-May-2011 10:29:45] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 345
+[06-May-2011 10:29:45] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 356
+[06-May-2011 10:29:45] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 367
+[06-May-2011 10:29:45] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 382
+[06-May-2011 10:29:47] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 345
+[06-May-2011 10:29:47] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 356
+[06-May-2011 10:29:47] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 367
+[06-May-2011 10:29:47] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 382
+[06-May-2011 10:29:53] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 345
+[06-May-2011 10:29:53] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 356
+[06-May-2011 10:29:53] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 367
+[06-May-2011 10:29:53] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 382
+[06-May-2011 10:30:19] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 345
+[06-May-2011 10:30:19] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 356
+[06-May-2011 10:30:19] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 367
+[06-May-2011 10:30:19] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 382
+[06-May-2011 10:31:02] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 347
+[06-May-2011 10:31:02] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 358
+[06-May-2011 10:31:02] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 369
+[06-May-2011 10:31:02] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 384
+[06-May-2011 10:31:20] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 10:31:20] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 348
+[06-May-2011 10:31:20] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 359
+[06-May-2011 10:31:20] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 370
+[06-May-2011 10:31:20] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 385
+[06-May-2011 10:33:48] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 10:33:48] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 348
+[06-May-2011 10:33:48] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 359
+[06-May-2011 10:33:48] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 370
+[06-May-2011 10:33:48] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 385
+[06-May-2011 10:34:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 10:34:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 348
+[06-May-2011 10:34:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 359
+[06-May-2011 10:34:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 370
+[06-May-2011 10:34:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 385
+[06-May-2011 10:34:49] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 10:34:49] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 348
+[06-May-2011 10:34:49] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 359
+[06-May-2011 10:34:49] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 370
+[06-May-2011 10:34:49] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 385
+[06-May-2011 10:35:15] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 10:35:15] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 348
+[06-May-2011 10:35:15] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 359
+[06-May-2011 10:35:15] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 370
+[06-May-2011 10:35:15] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 385
+[06-May-2011 10:36:50] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_coffeebreakshow&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 10:36:50] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 10:36:51] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_RaeRichWhat&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 10:36:51] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 10:36:52] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw__TasteMyTweets_&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 10:36:52] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 10:36:53] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_368Souljah&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 10:36:53] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 10:36:54] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_lexlovestim&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 10:36:54] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 10:36:55] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_PaperPlane_Jane&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 10:36:55] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 296
+[06-May-2011 10:36:56] PHP Warning:  file_get_contents(http://api.hunch.com/api/v1/get-recommendations/?user_id=tw_suzannejulig&amp;topic_ids=list_movie&amp;popularity=.1&amp;limit=15&amp;minimal=true) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 294
+[06-May-2011 10:48:40] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%23#moma) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 248
+[06-May-2011 10:48:40] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 253
+[06-May-2011 10:48:47] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 328
+[06-May-2011 10:48:47] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[06-May-2011 10:48:47] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[06-May-2011 10:48:47] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[06-May-2011 10:48:47] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[08-May-2011 22:57:42] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%23) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 248
+[08-May-2011 22:57:42] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 253
+[08-May-2011 22:58:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 328
+[08-May-2011 22:58:00] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[08-May-2011 22:58:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[08-May-2011 22:58:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[08-May-2011 22:58:00] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
+[09-May-2011 09:38:26] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%23) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 248
+[09-May-2011 09:38:26] PHP Warning:  Invalid argument supplied for foreach() in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 253
+[09-May-2011 09:38:34] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 328
+[09-May-2011 09:38:34] PHP Warning:  min() [<a href='function.min'>function.min</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 338
+[09-May-2011 09:38:34] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 349
+[09-May-2011 09:38:34] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 360
+[09-May-2011 09:38:34] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/themedi9/public_html/ilovethepersonals/comeatme/fight.php on line 375
