@@ -1,0 +1,1 @@
+3rd place winner at hackNY hackathon. Feeds your twitter info to hunch, which analyzes you network and spits out movies you like. Then, it finds other people who have recently posted to the hash tag, and compares their hunch-generated likes with your dislikes. The app recommends that you fight the one with the most matches.
